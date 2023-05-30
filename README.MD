@@ -1,3 +1,4 @@
+
 php artisan config:clear
 
 php artisan db:seed
