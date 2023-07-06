@@ -1,3 +1,4 @@
+composer dump-autoload   
 
 php artisan config:clear
 
@@ -14,3 +15,5 @@ php artisan make:controller UserController
 php artisan key:generate
 
 php artisan make:model Settings --migration
+
+php artisan route:list
